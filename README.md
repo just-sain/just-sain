@@ -1,4 +1,4 @@
-### 💤 just-sain
+# 💤 just-sain
 <img align="right" width="400" src="assets/hug.webp">
 
 <p align="left">
@@ -10,4 +10,10 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just-sain&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just-sain&layout=donut&theme=radical)
+
+### 📌 pinned repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=just-sain&repo=sakurasou&theme=radical)](https://github.com/just-sain/sakurasou)
+
+```sudo pacman -Rs boredom```
