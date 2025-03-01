@@ -1,6 +1,6 @@
 # 💤 just-sain
 
-<img align="right" width="350" src="assets/akane-kurokawa.gif">
+<img align="right" width="370" height="550" style="object-fit: cover;" src="assets/akane-kurokawa.gif">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
